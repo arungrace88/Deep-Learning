@@ -7,3 +7,5 @@ This repository is a collection of the personal projects created using various d
 --Face Detection:
   Detect the faces, live from the Laptop camera!!. The program utilises following python modules: 'OpenCV' and 'face recognition'.
   
+-- Theory of LSTM:
+  This file gives an intuitive introduction to LSTM and its variants.
