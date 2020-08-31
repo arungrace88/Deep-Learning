@@ -1,0 +1,1 @@
+Conversational chatbot created using Rasa framework. The user can enquire the capital city of any country. The bot fetch the capital city using API call.
